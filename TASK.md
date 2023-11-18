@@ -1,3 +1,7 @@
+superuser:
+admin
+Admin1985
+gusevsergey85@gmail.com
 Обязательное задание
 Проект “Сайт рецептов” на Django
 Краткое описание задания
